@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-// import "./BFS.css";
 import Node from "../Node/Node";
 
 function BFSTree() {
